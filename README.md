@@ -5,3 +5,5 @@
    - feat-2 브랜치 생성
    - feat-3 브랜치 생성
      - fix-1
+2. Delvelop Squash marge to main
+    - develop pull 후 feat-pull-2-1 브랜치 생성

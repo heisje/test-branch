@@ -11,3 +11,4 @@
 4. Delvelop Squash marge to main
 5. Delvelop rebase from main
 6. 에디터에서 수정
+7. 에디터에서 수정
